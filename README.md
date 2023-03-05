@@ -7,6 +7,10 @@ The Leon Template is a responsive website template created using HTML and CSS. I
 
 ![Leon Template Screenshot](./Leon%20_%20Template_One.png)
 
+## Live Demo
+
+You can see a live demo of the template [here]( https://hazemhussein14.github.io/Template-1/)
+
 ## Usage
 
 The Leon Template is designed to be a starting point for your own website. You can customize the template by modifying the HTML and CSS files to suit your needs.
@@ -29,12 +33,7 @@ If you are new to web development and want to learn more about HTML and CSS, you
 
 ## Download
 
-You can download the design from Graphberry: https://www.graphberry.com/item/leon-html-agency-template
-
-## Live Demo
-
-You can see a live demo of the template here: https://hazemhussein14.github.io/Template-1/
-
+You can download the design from [Graphberry](https://www.graphberry.com/item/leon-html-agency-template)
 
 ## Contributing
 
