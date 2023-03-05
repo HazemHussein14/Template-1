@@ -21,11 +21,11 @@ The HTML file `index.html` contains the structure of the template. You can modif
 
 ### CSS
 
-The CSS file `style.css` contains the styling of the template. You can modify the CSS properties to change the colors, fonts, layout, and other visual aspects of the template. The template uses both flexbox and CSS grid for layout.
+The CSS file `Leon.css` contains the styling of the template. You can modify the CSS properties to change the colors, fonts, layout, and other visual aspects of the template. The template uses both flexbox and CSS grid for layout.
 
 ### Images
 
-The `img` folder contains the images used in the template. You can replace these images with your own to personalize the template.
+The `images` folder contains the images used in the template. You can replace these images with your own to personalize the template.
 
 ## Tutorial
 
@@ -39,8 +39,5 @@ You can download the design from [Graphberry](https://www.graphberry.com/item/le
 
 If you would like to contribute to the Leon Template, you can fork the repository, make your changes, and submit a pull request. 
 
-## License
-
-The Leon Template is licensed under the MIT License. See the `LICENSE` file for more information.
 
 
